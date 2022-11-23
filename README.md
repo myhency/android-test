@@ -20,3 +20,8 @@ Getting Started
 2. Download the app.
 3. Import the app into Android Studio.
 4. Build and run the app.
+
+How app looks like
+---------------
+
+![img.png](img.png)
