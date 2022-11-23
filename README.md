@@ -28,6 +28,7 @@ Quest
 3. Button 을 2개 추가합니다 - Vertical / Horizon
 4. 기존의 리스트 페이지를 Vertical 스크린에 출력합니다.
 5. 새로운 리스트 페이지를 추가합니다 (Horizon) - 가로로 스크롤 가능한 리스트 페이지여야 합니다.
+6. (Optional) Coverage 가 70% 이상 나올 수 있는 Test code 를 추가합니다.
 
 How app looks like
 ---------------
