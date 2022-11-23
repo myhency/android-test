@@ -21,6 +21,14 @@ Getting Started
 3. Import the app into Android Studio.
 4. Build and run the app.
 
+Quest
+---------------
+1. 작동하지 않는 코드를 완성하세요
+2. Bottom navigation 을 추가하세요 
+3. Button 을 2개 추가합니다 - Vertical / Horizon
+4. 기존의 리스트 페이지를 Vertical 스크린에 출력합니다.
+5. 새로운 리스트 페이지를 추가합니다 (Horizon) - 가로로 스크롤 가능한 리스트 페이지여야 합니다.
+
 How app looks like
 ---------------
 
